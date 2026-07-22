@@ -26,10 +26,10 @@
 
 | Выход | Этап |
 |-------|------|
-| `landing-map.json` | 0 |
-| `work/visits/<visitId>.json` | 3 |
-| `hypotheses.md` | 4 |
-| `site-constraints.md` | 4.5 |
+| `landing-map.json` | 1 |
+| `work/visits/<visitId>.json` | 2 |
+| `hypotheses.md` | 3 |
+| `site-constraints.md` | 4 |
 | `recommendations.md` | 5 |
 | изменённые файлы в `site_dir` | 6 |
 | `constraints-check.md` | 7 |
